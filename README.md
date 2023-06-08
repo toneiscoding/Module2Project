@@ -1,5 +1,6 @@
 # Getting Started with MyAnimeList :globe_with_meridians:
 ![image](https://github.com/toneiscoding/Module2Project/assets/129553282/9c07c9bd-23cb-45c7-a647-dae4b4a7947d)
+* heres a link to my website https://toneiscoding.github.io/Module2Project/
 
 * This app gives you the power to create an anime list of your choosing.  Let's say a friend suggested to watch a few animes, you do not know much about the animes, you come to MyAnimeList and search the Animes and hover over the Anime's Cover for a synopsis. 
 ![image](https://github.com/toneiscoding/Module2Project/assets/129553282/e0e41445-dae2-4f1e-86e1-852c5ffaf59e)
